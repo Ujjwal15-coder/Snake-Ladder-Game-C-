@@ -4,7 +4,7 @@
 ![Platform](https://img.shields.io/badge/Platform-Console%20%2F%20Terminal-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-purple.svg)
 
-> A classic, feature-rich Indian Board Game (**Saanp Seedhi**) implemented in C# for the Windows Command Line / Terminal with dynamic ASCII graphics, multi-player support, and AI opponents!
+> A classic, feature-rich Indian Board Game (**Saanp Seedhi**) implemented in C# for the Windows Command Line / Terminal with dynamic ASCII graphics, multi-player support, and AI opponents.
 
 ---
 
